@@ -1,5 +1,5 @@
 # foco-estudantil-hackathon-dados
-Projeto de análise de dados baseado em uma ideia de Hackathon (2020), focado em foco, hábitos de estudo e procrastinação
+Projeto de mensuração baseado em uma ideia de Hackathon (2020), focado em foco, hábitos de estudo e procrastinação
 
 ##  Contexto
 O objetivo deste projeto foi dar uma repaginada em uma ideia desenvolvida em um Hackathon em 2020, que na época ficou restrita a slides e à apresentação do pitch.
