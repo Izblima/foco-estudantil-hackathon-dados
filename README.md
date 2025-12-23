@@ -2,11 +2,17 @@
 Projeto de análise de dados baseado em uma ideia de Hackathon (2020), focado em foco, hábitos de estudo e procrastinação
 
 ##  Contexto
-Este projeto teve origem em uma ideia desenvolvida durante um Hackathon online em 2020, realizado no auge da pandemia da Covid-19. O desafio era compreender e propor soluções para a dificuldade de aprendizagem e foco enfrentada por estudantes em um cenário de isolamento social.
+O objetivo deste projeto foi dar uma repaginada em uma ideia desenvolvida em um Hackathon em 2020, que na época ficou restrita a slides e à apresentação do pitch.
 
-Na época, a proposta ficou restrita aos slides e à apresentação do pitch, sem evolução técnica ou implementação prática.
+Em 2025, o projeto foi resgatado com um novo enfoque:
+- Reestruturação da apresentação utilizando Gamma
+- Criação do protótipo visual com apoio do Leonardo AI
+- Construção de um dataset fictício para simular o comportamento de estudantes
+- Modelagem e análise dos dados para geração de gráficos e métricas
 
-Em 2025, ao reencontrar os arquivos do projeto, surgiu a oportunidade de resgatá-lo e transformá-lo em um **case de Análise de Dados**, aplicando conceitos de estruturação, mensuração e visualização.
+A proposta central foi validar, por meio da mensuração de dados, a ideia de um “quadro de sonhos”
+associado a recompensas visuais, conceito que na época da pesquisa mostrou influência psicológica
+positiva na motivação e na formação de hábitos.
 
 ---
 
